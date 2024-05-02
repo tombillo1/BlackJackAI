@@ -1,5 +1,6 @@
 # BlackJackAI
 CS 4664 Final Project Deliverable
+Tommy Billington, Kenneth Hsu, & Ajay Kanjoor
 
 This goal of this project was to create a RL based approach to making money from Blackjack. While perfect blackjack can be attained through algorithmic design, our goal was to play the game at a very high level while also making use of card counting to make sure that the hands we did win, we won them with higher bets. To test this approach we ran three different experiments with three different card counting strategies. 
 
