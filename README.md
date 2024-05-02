@@ -44,6 +44,9 @@ WrongHalves:
 * More complex card counting with zero errors can effectively make more profit
 * Would never be worth the change for real humans.
 
+Overall:
+All three card counting strategies seemed to be very variable, as expected with games of chance. However, overall, the WrongHalves method was slightly more efficient than HiLo and HiOptII due to its increased complexity. All in all, this model shares promising insights into how RL can be utilized for games such as BlackJack to bridge the gap between the casino and the player. 
+
 ## References: 
 [1] Blackjack: Reinforcement Learning Approaches to an
 incomplete ..., https://www.researchgate.net/profile/AkinWilson/publication/338992214_Blackjack_Reinforcement_Le
@@ -61,6 +64,3 @@ theses.ub.rug.nl/27515/.
 stanford university, https://web.stanford.edu/class/aa228/reports/2020/final117.pdf.
 
 [5]“Card Counting - Strategies,” www.qfit.com. https://www.qfit.com/card-counting.htm
-
-Overall:
-All three card counting strategies seemed to be very variable, as expected with games of chance. However, overall, the WrongHalves method was slightly more efficient than HiLo and HiOptII due to its increased complexity. All in all, this model shares promising insights into how RL can be utilized for games such as BlackJack to bridge the gap between the casino and the player. 
