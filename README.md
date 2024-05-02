@@ -11,6 +11,7 @@ HiOptII.ipynb: Contains a level 2 card counting strategy, HiOptII.
 WrongHalves.ipynb: Contains a level 3 card counting strategy, WrongHalves.
 
 Conclusions:
+
 HiLo: 
 * Very efficient win/loss ratio
 * High total and average return over multiple testing iterations
@@ -25,3 +26,6 @@ WrongHalves:
 * Noticeable and significantly more ties then other two methods
 * More complex card counting with zero errors can effectively make more profit
 * Would never be worth the change for real humans.
+
+Overall:
+All three card counting strategies seemed to be very variable, as expected with games of chance. However, overall, the WrongHalves method was slightly more efficient than HiLo and HiOptII due to its increased complexity. All in all, this model shares promising insights into how RL can be utilized for games such as BlackJack to bridge the gap between the casino and the player. 
