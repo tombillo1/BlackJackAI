@@ -12,7 +12,7 @@ Requires matplotlib, random, and numpy.
 ### HiLo.ipynb: 
 Contains the basic version of card counting where you add a score of +1/-1 for high and low cards.
 
-![Image1](/images/hilo.png)
+![Image](/images/hilo.png)
 
 * Blackjack class - Contains development of environment, i.e. decks, rules, etc.
 * QLearningAgent class - Contains the hyperparams and HiLo betting strategy of the RL agent
@@ -20,14 +20,14 @@ Contains the basic version of card counting where you add a score of +1/-1 for h
 ### HiOptII.ipynb: 
 Contains a level 2 card counting strategy, HiOptII.
 
-![Image1](/images/hiopt.png)
+![Image](/images/hiopt.png)
 * Blackjack class - Contains development of environment, i.e. decks, rules, etc.
 * QLearningAgent class - Contains the hyperparams and HiOptII betting strategy of the RL agent
   
 ### WrongHalves.ipynb: 
 Contains a level 3 card counting strategy, WrongHalves.
 
-![Image1](/images/wrongh.png)
+![Image](/images/wrongh.png)
 
 * Blackjack class - Contains development of environment, i.e. decks, rules, etc.
 * QLearningAgent class - Contains the hyperparams and WrongHalves betting strategy of the RL agent
@@ -35,16 +35,23 @@ Contains a level 3 card counting strategy, WrongHalves.
 ## Conclusions:
 
 HiLo: 
+
+![Image](/images/hilop.png)
+
 * Very efficient win/loss ratio
 * High total and average return over multiple testing iterations
 * Overall, high-potential model for goal of monetary gain
 * Could improve card counting strategy to maximize return
 
 HiOptII:
+
+![Image](/images/hiop.png)
+
 * Incredibly similar to Hi-Opt 1 method counting.
 * Higher level doesn’t mean better, just alternative
 
 WrongHalves:
+![Image1](/images/wronghp.png)
 * Noticeable and significantly more ties then other two methods
 * More complex card counting with zero errors can effectively make more profit
 * Would never be worth the change for real humans.
