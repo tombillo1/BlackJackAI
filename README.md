@@ -45,13 +45,15 @@ HiLo:
 
 HiOptII:
 
-![Image](/images/hiop.png)
+![Image](/images/hioptp.png)
 
 * Incredibly similar to Hi-Opt 1 method counting.
 * Higher level doesn’t mean better, just alternative
 
 WrongHalves:
+
 ![Image1](/images/wronghp.png)
+
 * Noticeable and significantly more ties then other two methods
 * More complex card counting with zero errors can effectively make more profit
 * Would never be worth the change for real humans.
