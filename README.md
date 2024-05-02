@@ -10,7 +10,8 @@ Requires matplotlib, random, and numpy.
 ## Code:
 
 ### HiLo.ipynb: 
-Contains the basic version of card counting where you add a score of +1/-1 for high and low cards. 
+Contains the basic version of card counting where you add a score of +1/-1 for high and low cards.
+
 ![Image1](/images/hilo.png)
 
 * Blackjack class - Contains development of environment, i.e. decks, rules, etc.
@@ -18,12 +19,14 @@ Contains the basic version of card counting where you add a score of +1/-1 for h
 
 ### HiOptII.ipynb: 
 Contains a level 2 card counting strategy, HiOptII.
+
 ![Image1](/images/hiopt.png)
 * Blackjack class - Contains development of environment, i.e. decks, rules, etc.
 * QLearningAgent class - Contains the hyperparams and HiOptII betting strategy of the RL agent
   
 ### WrongHalves.ipynb: 
 Contains a level 3 card counting strategy, WrongHalves.
+
 ![Image1](/images/wrongh.png)
 
 * Blackjack class - Contains development of environment, i.e. decks, rules, etc.
