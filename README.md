@@ -50,17 +50,21 @@ incomplete ..., https://www.researchgate.net/profile/AkinWilson/publication/3389
 arning_Approaches_to_an_Incomplete_Information_Game/l
 inks/5e 37fd56a6fdccd96582255d/Blackjack-ReinforcementLearning- Approaches-to-an-Incomplete-Information-Game.
 pdf.
+
 [2] T. Vos, “Reinforcement learning and evolutionary algorithms in the stochastic environment of Blackjack,” Student
 Theses Faculty of Science and Engineering, https://fse.student
 theses.ub.rug.nl/27515/.
+
 [3] J. Colten, “Can you beat the odds? A reinforcement
 learning approach to optimal policy search in Blackjack,”
 repository.arizona.edu, https://repository.arizona.edu/handle
 /10150/668571.
+
 [4] Beating blackjack - A reinforcement learning approach
-- stanford university, https://web.stanford.edu/class/aa228/rep
+stanford university, https://web.stanford.edu/class/aa228/rep
 orts/2020/final117.pdf.
-[5]“Card Counting - Strategie
+[5]“Card Counting - Strategies,” www.qfit.com. https://www
+.qfit.com/card-counting.htm
 
 Overall:
 All three card counting strategies seemed to be very variable, as expected with games of chance. However, overall, the WrongHalves method was slightly more efficient than HiLo and HiOptII due to its increased complexity. All in all, this model shares promising insights into how RL can be utilized for games such as BlackJack to bridge the gap between the casino and the player. 
