@@ -11,6 +11,7 @@ Requires matplotlib, random, and numpy.
 
 ### HiLo.ipynb: 
 Contains the basic version of card counting where you add a score of +1/-1 for high and low cards. 
+![Image1](/images/hilo.jpg)
 
 * Blackjack class - Contains development of environment, i.e. decks, rules, etc.
 * QLearningAgent class - Contains the hyperparams and HiLo betting strategy of the RL agent
