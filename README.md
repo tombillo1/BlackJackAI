@@ -4,13 +4,27 @@ Tommy Billington, Kenneth Hsu, & Ajay Kanjoor
 
 This goal of this project was to create a RL based approach to making money from Blackjack. While perfect blackjack can be attained through algorithmic design, our goal was to play the game at a very high level while also making use of card counting to make sure that the hands we did win, we won them with higher bets. To test this approach we ran three different experiments with three different card counting strategies. 
 
-HiLo.ipynb: Contains the basic version of card counting where you add a score of +1/-1 for high and low cards. 
+## Code:
 
-HiOptII.ipynb: Contains a level 2 card counting strategy, HiOptII.
+### HiLo.ipynb: 
+Contains the basic version of card counting where you add a score of +1/-1 for high and low cards. 
 
-WrongHalves.ipynb: Contains a level 3 card counting strategy, WrongHalves.
+* Blackjack class - Contains development of environment, i.e. decks, rules, etc.
+* QLearningAgent class - Contains the hyperparams and HiLo betting strategy of the RL agent
 
-Conclusions:
+### HiOptII.ipynb: 
+Contains a level 2 card counting strategy, HiOptII.
+
+* Blackjack class - Contains development of environment, i.e. decks, rules, etc.
+* QLearningAgent class - Contains the hyperparams and HiOptII betting strategy of the RL agent
+  
+### WrongHalves.ipynb: 
+Contains a level 3 card counting strategy, WrongHalves.
+
+* Blackjack class - Contains development of environment, i.e. decks, rules, etc.
+* QLearningAgent class - Contains the hyperparams and WrongHalves betting strategy of the RL agent
+
+## Conclusions:
 
 HiLo: 
 * Very efficient win/loss ratio
