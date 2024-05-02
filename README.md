@@ -55,16 +55,12 @@ pdf.
 Theses Faculty of Science and Engineering, https://fse.student
 theses.ub.rug.nl/27515/.
 
-[3] J. Colten, “Can you beat the odds? A reinforcement
-learning approach to optimal policy search in Blackjack,”
-repository.arizona.edu, https://repository.arizona.edu/handle
-/10150/668571.
+[3] J. Colten, “Can you beat the odds? A reinforcement learning approach to optimal policy search in Blackjack,” repository.arizona.edu, https://repository.arizona.edu/handle/10150/668571.
 
 [4] Beating blackjack - A reinforcement learning approach
-stanford university, https://web.stanford.edu/class/aa228/rep
-orts/2020/final117.pdf.
-[5]“Card Counting - Strategies,” www.qfit.com. https://www
-.qfit.com/card-counting.htm
+stanford university, https://web.stanford.edu/class/aa228/reports/2020/final117.pdf.
+
+[5]“Card Counting - Strategies,” www.qfit.com. https://www.qfit.com/card-counting.htm
 
 Overall:
 All three card counting strategies seemed to be very variable, as expected with games of chance. However, overall, the WrongHalves method was slightly more efficient than HiLo and HiOptII due to its increased complexity. All in all, this model shares promising insights into how RL can be utilized for games such as BlackJack to bridge the gap between the casino and the player. 
